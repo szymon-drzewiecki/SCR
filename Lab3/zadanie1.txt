@@ -10,3 +10,7 @@ odpowiedzialne za priorytet danego procesu, poza tym, otrzymujemy rowniez parame
 ktory przechowuje adres/nazwe jadra funkcji, w ktorym proces przebywa, gdy jest nieaktywny,
 proces aktywny w tej kolumnie posiada "-".
 
+W przykladowej chwili wywolania, przy pomocy komendy ps -e | wc -l, sprawdzilem, ze na moim 
+komputerze jest uruchomionych 168 procesow.
+
+Dla porownania, na panamincie bylo uruchomione 784 procesy.
