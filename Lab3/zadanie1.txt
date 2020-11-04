@@ -1,0 +1,6 @@
+Roznica w wywolaniu przy wywolaniu ps -f, polecenie ps wykonuje sie w tzw. full
+ormat listing, wyswietla nam sie wowczas poza PID, Terminalen, czasem i
+poleceniem, rowniez PPID (czyli id rodzica danego procesu), STIME (czas systemu
+tzn. godzina w ktorej dany proces zostal utworzony, oraz UID (tzn. id uzytkownika,
+ktory utworzyl dany prcoes).
+
