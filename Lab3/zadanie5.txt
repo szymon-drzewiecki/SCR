@@ -1,0 +1,1 @@
+Sygnalu SIGKILL nie da sie przechwycic, proces jest zabijany pomimo zastozoswania polecenia trap na wszystkie 15 sygnalow

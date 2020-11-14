@@ -1,0 +1,1 @@
+Proces C zostal zaadoptowany przez proces init, proces rodzic zakonczyl swoje dzialanie. 

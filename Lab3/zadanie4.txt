@@ -1,0 +1,1 @@
+Generalnie system mozna powiedziec rozdziela dane z pliku procesom, ktore maja wspoldzielony dostep w sposob losowy. Kiedy zamkniemy proces piszacy, to proces czytajacy dostanie sygnal 0, a kiedy zamkniemy proces czytajacy, to piszacy dostanie sygnal SIGPIPE informujacy o tym, ze potok zostal "zepsuty".

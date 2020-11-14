@@ -1,0 +1,1 @@
+Rzeczywiscie polecenie SIGSTOP daje takie sam efekt jak wcisniecie klawiszy Ctrl+Z. Sygnal SIGCONT jest bardziej podobny do wykonania polecenia bg. 
