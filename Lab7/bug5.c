@@ -37,4 +37,5 @@ for(t=0;t<NUM_THREADS;t++){
     }
   }
 printf("Main: Done.\n");
+pthread_exit(NULL);
 }
